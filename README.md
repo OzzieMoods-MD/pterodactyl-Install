@@ -57,7 +57,7 @@ bash <(curl -s https://raw.githubusercontent.com/OzzieMoods-MD/pterodactyl-Insta
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
-Here is a [YouTube video](https://www.youtube.com/watch?v=E8UJhyUFoHM) that illustrates the installation process.
+Here is a [Tutorial](https://youtu.be/L2-CLTXNTpg?si=JaCbwCucre28uwQX) that illustrates the installation process.
 
 
 ## Contributors ✨
