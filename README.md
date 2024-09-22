@@ -53,6 +53,7 @@ To use the installation scripts, simply run this command as root. The script wil
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/OzzieMoods-MD/pterodactyl-Install/refs/heads/main/install.sh)
 ```
+- Token: OzzieGanteng
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
