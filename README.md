@@ -57,3 +57,14 @@ bash <(curl -s https://pterodactyl-installer.se)
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
 Here is a [YouTube video](https://www.youtube.com/watch?v=E8UJhyUFoHM) that illustrates the installation process.
+
+
+## Contributors ✨
+
+Copyright (C) 2018 - 2024, OzzieMoods-MD, <ozziemoods@gmail.com>, and contributors!
+
+- Created by [OzzieMoods](https://github.com/OzzieMoods-MD)
+- Maintained by [Linux123123](https://github.com/Linux123123)
+
+Thanks to the Discord moderators [OzzieMoods](https://github.com/OzzieMoods-MD), [Linux123123](https://github.com/Linux123123) and [sinjs](https://github.com/sinjs) for helping on the Discord server!
+contributors
