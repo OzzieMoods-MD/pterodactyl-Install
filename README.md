@@ -62,10 +62,10 @@ Here is a [Tutorial](https://youtu.be/L2-CLTXNTpg?si=JaCbwCucre28uwQX) that illu
 
 ## Contributors ✨
 
-Copyright (C) 2018 - 2024, OzzieMoods-MD, <ozziemoods@gmail.com>, and contributors!
+Copyright (C) 2018 - 2024, OzzieMoods-MD, <montu@gmail.com>, and contributors!
 
-- Created by [OzzieMoods](https://github.com/OzzieMoods-MD)
+- Created by [MontuMoods](https://github.com/montu13)
 - Maintained by [Linux123123](https://github.com/Linux123123)
 
-Thanks to the Discord moderators [OzzieMoods](https://github.com/OzzieMoods-MD), [Linux123123](https://github.com/Linux123123) and [sinjs](https://github.com/sinjs) for helping on the Discord server!
+Thanks to the Discord moderators [OzzieMoods](https://github.com/montu13), [Linux123123](https://github.com/Linux123123) and [sinjs](https://github.com/sinjs) for helping on the Discord server!
 contributors
